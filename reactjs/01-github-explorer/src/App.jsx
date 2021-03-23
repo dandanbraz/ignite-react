@@ -1,3 +1,7 @@
+import './styles/global.scss';
+
 export function App(){
-    return <h1>Hello World</h1>
+    // throw new Error('Bugou velho')
+
+    return <h1>Hello World - Primeira Aplicação React</h1>
 }
